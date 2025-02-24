@@ -85,6 +85,6 @@ This **Railway Reservation System** provides a platform for users to easily book
 - 📖 [GeeksforGeeks - Java & MySQL](https://www.geeksforgeeks.org/)
 
 ---
-💡 **Contributors**: 👨‍💻 Amaan Khojani, 👩‍💻 Sanjana Nandania  
+💡 **Contributor**: 👨‍💻 Amaan Khojani 
 📅 **Academic Year**: 2022-2023  
-👨‍🏫 **Guide**: Pankaj Sir  
+👨‍🏫 **Guide**: Pankaj Mudholkar
